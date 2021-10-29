@@ -1,0 +1,8 @@
+As a utilites user
+I want a utility that will reverse a string
+So that I can easily reverse text.
+
+Acceptance Criteria
+
+The utility should accept a string and return the reversed string
+If the string is over 1024 characters long a suitable error should be returned
